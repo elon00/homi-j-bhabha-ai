@@ -1,0 +1,14 @@
+{
+  "project": "homi-j-bhabha-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "3BCrxa3uDeXDeB6hwgqRnqdh5yyoVUVmjxLYfHQbZrDo",
+  "vault_account": "8ZpYVmpMf1JVnwM4sKapDSFnrQttYzaDVth1ZHcHk9Mq",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "2tdCd9VEkAQ9iC8MHrSQR2FYYL1mQ5MBYEMWKP4ayuofd8GYho8Lb5S5r8N5w5st9NDM92qVZDi5ygEA8wjJqAku",
+  "account_tx": "5vm1cvapCXvESfDFzsqg9eR7XAVMqkxyVSo53QM8vraWrGt7zPMkN8VNX3ZqbKYgQoNvbN76xeTYDfHb2MGNLMA3",
+  "mint_tx": "2rShDAX4pBKokjoZWpXK4mb4TNA3VS6rzMbQLQv8Ystpvs5i2cruSEvwUFFw85LBxzjJzdyJPwBAHMDRzEifHttL",
+  "solana_explorer_mint": "https://explorer.solana.com/address/3BCrxa3uDeXDeB6hwgqRnqdh5yyoVUVmjxLYfHQbZrDo?cluster=devnet",
+  "timestamp": "2026-10-26 16:39:12 UTC"
+}
